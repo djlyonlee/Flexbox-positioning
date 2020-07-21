@@ -1,0 +1,45 @@
+{
+    padding: 0;
+    margin: 0;
+
+}
+
+.container {
+    background-color: blueviolet;
+    display: flex;
+    text-align: center;
+    margin; 1em;
+    height: 250px;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+}
+
+.myDiv1 {
+    width: 30%;
+    height: 250px;
+    background-color: pink;
+
+}
+
+.myDiv2 {
+    width: 30%;
+    height: 250px;
+    background-color: red;
+    color: white;
+   
+}
+.myDiv3 {
+    width: 30%;
+    height: 250px;
+    color: white;
+    background-color: green;
+    
+}
+.myDiv4 {
+    width: 30%;
+    height: 250px;
+    color: white;
+    background-color: black;
+    
+}
